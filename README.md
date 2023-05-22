@@ -47,9 +47,9 @@ Python V 3.6, 3.7
 
 
 #### Contacts
-|Contact Name |E-Mail Id |Role |
-|:----------------------|:----------------------------|:---------------------------|
-|Subhankar Samal |subhankar.samal@infosys.com |System Engineer Trainee |
+|Contact Name |E-Mail Id |
+|:----------------------|:----------------------------|
+|Subhankar Samal |sub.samal97@gmail.com |
 
 #### Import Procedure
 |Steps ||:---------------------------------------------------|
